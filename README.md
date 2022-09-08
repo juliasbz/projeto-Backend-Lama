@@ -50,6 +50,8 @@ Express
 
 MySQL
 
+Jest
+
 ---
 
 ## 🛠 API
