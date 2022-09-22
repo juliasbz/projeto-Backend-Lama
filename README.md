@@ -22,7 +22,7 @@ Endpoint para logar o usuário já cadastrado no sistema através da inserção 
 
 ### Endpoint createShow 
 
-Endpoint para criar show através da inserção dos dados nome e tag. Somente admins podem utilizá-lo.
+Endpoint para criar show através da inserção dos dados nome e data. Somente admins podem utilizá-lo.
 
 ### Endpoint getShows
 
